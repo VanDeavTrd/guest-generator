@@ -14,7 +14,6 @@
 - `pip install requests`
 - `pip install bs4`
 - `pip install urllib3`
-- `pip install psutil`
 - `pip install clang`
 - `pip install pycryptodome`
 - `pip install protobuf-decoder`
