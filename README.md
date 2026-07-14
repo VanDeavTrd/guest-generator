@@ -5,7 +5,7 @@
 
 
 ## <b>installation</b>
-- `pkg update && pkg upgrade -y`
+- `pkg update && pkg upgrade`
 - `termux-setup-storage`
 - *setelah input termux-setup-storage, anda harus mengijinkan termux untuk mengakses file anda*
 - `pkg install git -y`
