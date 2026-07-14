@@ -10,7 +10,6 @@
 - *setelah input termux-setup-storage, anda harus mengijinkan termux untuk mengakses file anda*
 - `pkg install git -y`
 - `pkg install python -y`
-- `pkg install clang`
 - `pip install requests`
 - `pip install bs4`
 - `pip install urllib3`
