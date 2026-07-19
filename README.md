@@ -17,6 +17,8 @@
 - `pip install pycryptodome`
 - `pip install protobuf-decoder`
 - `pip install rich`
+- `pip install cython`
 - `git clone https://github.com/VanDeavTrd/guest-generator`
+- `git pull`
 - `cd guest-generator`
 - `python run.py`</br>
